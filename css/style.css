@@ -104,7 +104,7 @@ body {
 
 .copyright {
   font-size: 24px;
-  color: rgba(3, 253, 24, 0.452);
+  color: rgb(255, 255, 255);
   text-shadow: 2px 2px 16px rgb(27, 17, 161);
   margin-top: 10vh;
   padding-bottom: 70vh;
@@ -137,7 +137,7 @@ body {
   }
   .copyright {
     font-size: 18px;
-    color: #606060;
+    color: #ffffff;
     text-shadow: none;
     margin: 0;
     padding: 4rem 0;
